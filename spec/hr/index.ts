@@ -1,0 +1,5 @@
+
+
+// barrel
+
+export * from './department';
